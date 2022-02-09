@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohamed Samir"
-  avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/site_data/avatar.gif # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Analysis & Reverse Engineering"
   location         : "127.0.0.1"
   email            :
