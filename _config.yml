@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "eln0ty"
+title                    : "samir"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Abdallah Elnoty"
+name                     : "Mohamed Samir"
 description              : "Malware Analysis & Reverse Engineering"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdallah Elnoty"
+  name             : "Mohamed Samir"
   avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Malware Analysis & Reverse Engineering"
   location         : "127.0.0.1"
@@ -116,16 +116,16 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/eln0ty"
+      #url: "https://twitter.com/eln0ty"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/eln0ty"
+     # url: "https://facebook.com/eln0ty"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/eln0ty"
+      url: "https://www.linkedin.com/in/mohamed-ayid-42141220b/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/eln0ty"
+      url: "https://github.com/mohamed458"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
