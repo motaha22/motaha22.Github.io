@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Malware Analysis"
-    url: /categories/#malware-analysis
+  - title: "bug bounty"
+    url: /categories/#bug-bounty
   - title: "All Categories"
     url: /categories
   # - title: "Sample Posts"
