@@ -103,8 +103,8 @@ analytics:
 # Site Author
 author:
   name             : "Mohamed Taha"
-  avatar           : /assets/images/site_data/avatar.gif # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Penetration tester & bug hunter"
+  avatar           : /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Penetration tester & Bug Hunter"
   location         : "127.0.0.1"
   email            :
   links:
