@@ -67,4 +67,4 @@ Sample of the internal images:
 
 
 ***Final word:**
-you will not understand anything if you did not read the blog first as he explained erything in it.
+you will not understand anything if you did not read the blog first as he explained everything in it.
