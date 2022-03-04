@@ -2,7 +2,7 @@
 title: "How I was able to access IBM internal documents"
 classes: wide
 header:
-  teaser: /assets/images/crackmes1/ibm.jpg
+  teaser: /assets/images/crackmes/crit.PNG
 ribbon: DodgerBlue
 description: "How to exploit Salesforce misconfiguration in the wild"
 categories:
