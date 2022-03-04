@@ -30,7 +30,7 @@ I found this subdomain **weathercommunity.ibm.com** which pointing out to: **the
 
 I found an endpoint like:
      
-![](https://images.squarespace-cdn.com/content/v1/5f7770a896185c777e49b396/1602179691337-ZXQYGZ11DJ60P6T3RURB/ke17ZwdGBToddI8pDm48kD6aNKZxB3DN5p6JsVrwzw1Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZcY1lis3u7ujHaqKviAjfgBXb2P7ACMlJX44aBDLb--xfEjN8oatzV-2psMy5gKWM4rq4TCJTzAyL25jm0DX3aYLdXwLHXSvXM5NA8ifPwj1/aura_query.PNG?format=2500w)
+![](/assets/images/crackme/0690h000007Aly3AAC.png)
 
 then I sent this POST request to the Repeater and changed the ***Message*** parameter to:
 ```
@@ -62,9 +62,9 @@ done < $1
 
 Sample of the internal images:
 
-![](https://hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com/9p4dbjafg8rtktxubh37ohuyc14s?response-content-disposition=attachment%3B%20filename%3D%220690h000007Aly3AAC%22%3B%20filename%2A%3DUTF-8%27%270690h000007Aly3AAC&response-content-type=image%2Fpng&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQGK6FURQZYNIBA6H%2F20220304%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220304T204708Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPr%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJIMEYCIQD37f9Upttrr7X0u6Lv9S58bOu6vWvhE5W9%2BqsSiAPkjQIhAKfSpjXF99Cv13J7IfRx2KBI3dOZ%2Bcw5BHX1tw9wq07%2FKvoDCGMQAhoMMDEzNjE5Mjc0ODQ5IgzJyEflzTkp01Ectdsq1wMY9x4YZa6ek3mI86HYnVRSL%2FG%2Bt1kJ%2BewpNkdxHW%2FCc4xWoQnS5n3Er0OEcodDpvldfFFDnlnww5yhAlcX1pUK8bfILR7b6XI3sr3WN16aNzzb5lOLSsoaMfYA2JGyRm9joy3TbXtQozCzmNT%2FNZ03iKBDc%2F5qxAKRa%2BAeLAGSyGeBbXitaOZ53QsWi3HWs7jKfSasgR%2F7N%2FpxdMsOn%2B02ufYcmakGBKwnzVqF2eaQtja75sd4I6aX3XxRaO4xdv4ESEMW6gWy2%2BWnT4p0dB3WdbKqzsImFJw5gLbpa9bPeyK0L2gLRdAjjhO%2FPUtx8fJ%2BekmnqFkXejWbrh5msiRvGL9KDITja4wurm5OvVwQo%2FwR16wNa0Dh7mcZiiDy2In2gPzHGDV4FxRW0NXY%2BcdhFLW9OMDVA%2Bd%2FsE2bcdKj3x9%2FlhMAz5Lgu%2BYnbQ8AWklSHBmP%2BUlsLDE%2Fk0NsTuzTwHSLHQ06zVGIM7V7TOZfjnaYbKUNF%2Bb1HCLJoxTYN3UqJC%2BWe8zE6Wi5gMFtFvAmc0oMr1jtfK3Un3dSLZGUxE9nx4A3RlLafBfxtiWCi2qa2rmVDrwIWvRctOx5bcFyNjzu1NAzZIx4ymQS3EqeZ1uKlp6y1t4w8KGJkQY6pAHsT0iIcDrjKOKLuVzwV%2BX%2BQZPYAAfyiSprxLAmJ6T8JhWjwc1VQtc7KEyFZKfq38antz5jzqT2sYLU3mku76D8AnCjurzoDRbRRbN4DxlQR3stAmWSam8w%2BKWmlCrgY10XCPxgmsAhhu7OsimMbMKcYdF%2BzmbC82gxo3we4RRkdHUMo1KMXR6wtHZaJ6ggJh5PA8ZcUqjCEO9gmTruotlPpHYHcA%3D%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c3f571905620666c9aac2c51b2aad54b409e3046da2614f705ed86c29e7e5fd2)
+![]()
 
-![](/assets/images/crackmes/crit.PNG)
+![](/assets/images/crackmes/0690h000007Aly3AAC.png)
 
 
 ***Final word:**
