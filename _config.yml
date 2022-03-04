@@ -105,7 +105,7 @@ author:
   name             : "Mohamed Taha"
   avatar           : /assets/images/site_data/avatar.gif # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Penetration tester & Bug Hunter"
-  location         : "127.0.0.1"
+  location         : "Cairo"
   email            :
   links:
     - label: "Email"
@@ -119,7 +119,7 @@ author:
       url: "https://twitter.com/Mohamed12742780"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "fb.com/mohamedtaha2001"
+      url: "https://www.facebook.com/mohamedtaha2001/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/mohamed-taha-a589171a1/"
