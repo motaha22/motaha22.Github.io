@@ -4,6 +4,7 @@ classes: wide
 header:
   teaser: /assets/images/crackmes1/ibm.jpg
 ribbon: DodgerBlue
+description: "How to exploit Salesforce misconfiguration in the wild"
 categories:
   - bugbounty
 toc: true
