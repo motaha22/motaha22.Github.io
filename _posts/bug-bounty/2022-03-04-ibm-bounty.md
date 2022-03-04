@@ -12,7 +12,8 @@ toc: true
 
 Hi, today I will share how I was able to access internal data of https://weathercommunity.ibm.com using salesforce misconfiguration.
 
-This write-up will depends n this great blog: https://web.archive.org/web/20210125200757/https://www.enumerated.de/salesforce
+This write-up will depends n this great blog: [ Salesforce](https://web.archive.org/web/20210125200757/https://www.enumerated.de/salesforce)
+
 so please read it first then read this write-up.
 
 After I read this blog, I wanted to exploit it in the wild so I now I wanted to see the subdomains which point to on of the following CNAMEs:
