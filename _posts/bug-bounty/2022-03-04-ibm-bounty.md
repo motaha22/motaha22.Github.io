@@ -30,6 +30,10 @@ on hackerone through https://chaos.projectdiscovery.io/
 I found this subdomain **weathercommunity.ibm.com** which pointing out to: **thercommunity.ibm.com.00de0000000avgcma2.live.siteforce.com**
 
 I found an endpoint like:
+
+```
+POST /s/sfsites/aura?r=2&applauncher.CommunityLogo.getCommunityName=1&applauncher.CommunityLogo.getLogoURL=1&applauncher.EmployeeLoginLink.getEmployeeLoginUrl=1&applauncher.EmployeeLoginLink.getIsAllowInternalUserLoginEnabled=1&applauncher.SocialLogin.getAuthProviders=1&applauncher.SocialLogin.getSamlProviders=1&applauncher.SocialLogin.handleIdp=1&other.LightningLoginForm.getForgotPasswordUrl=1&other.LightningLoginForm.getIsSelfRegistrationEnabled=1&other.LightningLoginForm.getIsUsernamePasswordEnabled=1&other.LightningLoginForm.getSelfRegistrationUrl=1&ui-communities-components-aura-components-forceCommunity-richText.RichText.getParsedRichTextValue=2&ui-communities-components-aura-components-forceCommunity-seoAssistant.SeoAssistant.getSeoLanguageData=1 HTTP/1.1
+```
      
 ![](/assets/images/crackme/0690h000007Aly3AAC.png)
 
