@@ -1,7 +1,8 @@
+---
 title: "TEST"
 classes: wide
 header:
-  teaser: /assets/images/crackmes/internet_archive_wayback_machine_1480764321145.png
+  teaser: /assets/images/crackmes/way.png
 ribbon: DodgerBlue
 categories:
   - bugbounty
